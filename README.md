@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[ちゃんと理解できているか怪しい点]
+* P183 4.7.4  レイアウトを入れ子に配置する
+  * ソースはわかるけど、図4.25 と ソースコードの部分が対応しているように見えない
